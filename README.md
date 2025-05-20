@@ -9,3 +9,5 @@ For feature importance, you can use tools we used in other BIDS tutorials, or an
 ```
 conda install -c conda-forge shap # alternatively do pip install shap
 ```
+
+Have a play around with some toy data and neural networks in a browser: [playground](https://playground.tensorflow.org/)
